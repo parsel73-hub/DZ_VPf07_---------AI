@@ -1,0 +1,6 @@
+langchain>=0.3,<0.4
+langchain-openai>=0.3,<0.4
+openai>=1.50
+ddgs>=9.0
+requests>=2.32
+python-dotenv>=1.0
